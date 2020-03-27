@@ -1,2 +1,5 @@
 # Javascript modules
 node_modules/
+
+# Database files
+*.sqlite
